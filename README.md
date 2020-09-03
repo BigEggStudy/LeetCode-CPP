@@ -1,11 +1,8 @@
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-cpp.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-cpp)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-8-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CPP)
+
 # LeetCode
 The C++ solutions for LeetCode problems.
-
-### Algorithm
-
-| Languages | Build Status | Solved Problems |
-| --------- | ------------ | --------------- |
-|C++|[![Windows Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-vu4km.svg?style=flat-square&label=Windows%20Build)](https://ci.appveyor.com/project/BigEgg/leetcode-vu4km)|[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-8-blue.svg?style=flat-square)](https://github.com/BigEgg/LeetCode/tree/C++)|
 
 ## Problems
 
